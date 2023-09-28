@@ -6,8 +6,8 @@
     </div>
     <div class="content">
         <h1>Welcome to my GitHub page!</h1>
-        <p>🌱 I’m currently learning new coding skills.</p>
-        <p>⚡ Fun fact: I get bored quickly, but a little walk can reenergize me.</p>
+        <p>🌱 As part of my ongoing learning process, I am learning new coding skills.</p>
+        <p>⚡ The simple act of walking can reenergize me after getting bored quickly.</p>
     </div>
 </body>
 </html>
