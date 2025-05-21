@@ -2,12 +2,13 @@
 </head>
 <body>
     <div class="header">
-        Hi👋 I am Fatima Ismail 
+        Hello! 👋
     </div>
     <div class="content">
-        <h1>Welcome to my GitHub page!</h1>
-        <p>🌱 As part of my ongoing learning process, I am learning new coding skills.</p>
+        <h1>Welcome to my GitHub corner!</h1>
+        <p>✨ I'm an enthusiastic Electrical Engineering student with a deep passion for robotics and intelligent systems.</p>
+        <p>🧠 I have solid experience in C++ programming and hands-on familiarity with ROS, which I’ve used in real-world projects.</p>
+        <p>🚀 Always eager to grow, I continuously expand my skills through exploration, collaboration, and coding challenges.</p>
     </div>
 </body>
 </html>
-
