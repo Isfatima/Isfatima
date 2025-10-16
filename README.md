@@ -16,4 +16,7 @@ I love experimenting, solving coding challenges, and expanding my skills with **
 ### 📫 Reach out
 Feel free to explore my repositories — each project has a story and a lesson!  
 
+**Contact me:**  
+- University email: [fatima.ismail@universite-paris-saclay.fr](mailto:fatima.ismail@universite-paris-saclay.fr)  
+- Personal email: [fatima.ism0ail@gmail.com](mailto:fatima.ism0ail@gmail.com)
 ---
